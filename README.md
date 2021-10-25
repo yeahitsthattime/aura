@@ -13,3 +13,6 @@ o Add text to the top-right of the game screen
 o shall install the raspbian os
 o shall enable spi and i2c i/o
 o shall install and setup the sw tools
+• shall demonstrate basic understanding of puthon coding
+o create simple unit conversion program
+oneed to create detailed requirments for your chosen program
